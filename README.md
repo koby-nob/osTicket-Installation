@@ -22,10 +22,47 @@
 - VC.redist.x86.exe
 - mysql-5.5.62-win32.msi or current version
 - Heidisql_12.3.0.6589_setup.exe
+ 
+ <p>
+ <p>
+<img src="https://i.imgur.com/7xFdoAm.png"
+ <p>
 
 <h2>Installation Steps</h2>
 
+
 <p>
-<img src=
+<img src="https://i.imgur.com/WDvuXdL.png"
+<p>
+
+
+<p>
+<img src="https://i.imgur.com/iFfu2qW.png"
+<p>
+
+<p>
+<img src="https://i.imgur.com/V1D7lSk.png"
+<p>
+
+<p>
+<img src="https://i.imgur.com/K5W0JGl.png"
+<p>
+
+
+
+<p>
+<img src="https://i.imgur.com/URAmZwl.png"
+<p>
+
+
+<p>
+<img src="https://i.imgur.com/bZFDVjS.png"
+<p>
+
+<p>
+<img src="https://i.imgur.com/SEW5VbT.png"
+<p>
+
+<p>
+<img src="https://i.imgur.com/IoGCHUs.png"
 </p>
-<p>
