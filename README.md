@@ -14,13 +14,14 @@
 <h2>Operating Systems Used </h2>
 - Windows 10</b> (21H2)
 
-<h2>List of Pre-install items</h2>
+<h2>List of Pre-Install Files</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- PHPManagerForIIS_V1.5.0.msi or current version
+- rewrite_amd64_en-US.msi
+- php(-7.3.8-nts-Win32-VC15-x86.zip file
+- VC.redist.x86.exe
+- mysql-5.5.62-win32.msi or current version
+- Heidisql_12.3.0.6589_setup.exe
 
 <h2>Installation Steps</h2>
 
