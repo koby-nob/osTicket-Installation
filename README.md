@@ -76,7 +76,7 @@
 </p>
 <p>
 
-    - Prior to install the Heidi SQL, the installation steps need to be completed:
+    - Prior to installation of the Heidi SQL, these installation steps below need to be completed:
     - Register PHP from within IIS
 
     - Reload IIS (Open IIS, Stop and Start the server)
@@ -115,4 +115,4 @@
 <p>
    
      - Above image displays when a user succesfuly logs into the osTicket account.
-     - 
+     
