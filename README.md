@@ -103,8 +103,16 @@
      
 <p>
 <img src="https://i.imgur.com/SEW5VbT.png"
-<p>
-
+</p>
+<p> 
+  
+    - Go to Login page. Find the End Users osTicket URL: http://localhost/osTicket/ 
+    - Login to osTicket ( Username: koby001 (for the purpose of this project)
+    
 <p>
 <img src="https://i.imgur.com/IoGCHUs.png"
 </p>
+<p>
+   
+     - Above image displays when a user succesfuly logs into the osTicket account.
+     - 
