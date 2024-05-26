@@ -151,4 +151,7 @@
 <p>
    
      - Above image displays when a user succesfuly logs into the osTicket account.
-     
+
+<h1> Reference</h1>
+
+     - [Josh Madakor-Coursecareers-Lab-3:OS-Ticket Installation]documhttps://docs.google.com/document/d/12QH7yrsaiUfYNOgZK7KgTSZQSJ-HYTSVcGFildWMRig/edit#bookmark=id.cajb4ktub1km
