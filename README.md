@@ -27,6 +27,10 @@
 
 <h2>Installation Steps</h2>
 
+- This project will display only the section of osTicket after these virtual Machine osTicket has been created in Micorsoft Azure and the Internet Information Service has been enabled:
+- VM osTicket
+- Remote Desktop
+- Internet Information Service (IIS)
 
 <p>
 <img src="https://i.imgur.com/WDvuXdL.png"
