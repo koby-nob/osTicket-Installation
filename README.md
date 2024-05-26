@@ -23,10 +23,7 @@
 - mysql-5.5.62-win32.msi or current version
 - Heidisql_12.3.0.6589_setup.exe
  
- <p>
- <p>
-<img src="https://i.imgur.com/7xFdoAm.png"
- <p>
+
 
 <h2>Installation Steps</h2>
 
