@@ -129,7 +129,7 @@
 </p>
 <p>
   
-    - If you see congratulations page, it means installation is succesful.
+    - If you see congratulations page, it means installation is successful.
     - The next step is to browse to the help desk login page: http://localhost/osTicket/scp/login.php
 
      
