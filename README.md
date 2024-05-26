@@ -30,12 +30,19 @@
 
 <p>
 <img src="https://i.imgur.com/WDvuXdL.png"
+</p>
 <p>
-
+  
+    - Download and install the PHP Manager file.
+    - The version PHPManagerForIIS_V1.5.0.msi or the lastest version
 
 <p>
 <img src="https://i.imgur.com/iFfu2qW.png"
+</p>
 <p>
+  
+    - Download and install the Rewrite Module file
+    - The rewrite_amd64-en-US.msi or the lastest version
 
 <p>
 <img src="https://i.imgur.com/V1D7lSk.png"
