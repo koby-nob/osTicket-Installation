@@ -53,19 +53,54 @@
 
 <p>
 <img src="https://i.imgur.com/K5W0JGl.png"
+</p>
 <p>
+  
+    - Download and install VC-redist.x86.exe file from the install files
+
+<p>
+<img src="https://i.imgur.com/7Jt7fU2.png"
+</p>
+<p> 
+  
+    - Download and install MySQl 5.5.62(mysql-5.5.62-win32.msi) from the install files or the lastest version
+    - Typical Setup ->
+    - Launch Configuration Wizard (after install) 
+    - Standard Configuration ->
+    - Password1 (for the purpose of this project).
 
 
 
 <p>
 <img src="https://i.imgur.com/URAmZwl.png"
+</p>
 <p>
 
+    - Prior to install the Heidi SQL, the installation steps need to be completed:
+    - Register PHP from within IIS
+
+    - Reload IIS (Open IIS, Stop and Start the server)
+
+    - Install osTicket v1.15.8
+    - Download osTicket from the install files
+    - Extract and copy “upload” folder to c:\inetpub\wwwroot
+    - Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+
+    - Download and install the Heidisql
+    - Open Heidi Sql
+    - Create a new session, root/Password1(for the purpose of this project)
+    - Connect to the session
+    - Create a database called "osTicket"
 
 <p>
 <img src="https://i.imgur.com/bZFDVjS.png"
+</p>
 <p>
+  
+    - If you see congratulations page, it means installation is succesful.
+    - The next step is to browse to the help desk login page: http://localhost/osTicket/scp/login.php
 
+     
 <p>
 <img src="https://i.imgur.com/SEW5VbT.png"
 <p>
