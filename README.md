@@ -12,7 +12,11 @@
 - Internet Information Services (IIS)
 
 <h2>Operating Systems Used </h2>
+
 - Windows 10</b> (21H2)
+
+
+ ![osTicket_Admin](https://github.com/koby-nob/osTicket-Installation/assets/166937258/d77070ba-ae78-4a35-80a5-2408c34dbe64)
 
 <h2>List of Pre-Install Files</h2>
 
