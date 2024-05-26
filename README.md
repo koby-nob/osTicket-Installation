@@ -33,7 +33,7 @@
 </p>
 <p>
   
-    - Download and install the PHP Manager file.
+    - Download and install the PHP Manager file from the install files.
     - The version PHPManagerForIIS_V1.5.0.msi or the lastest version
 
 <p>
@@ -41,12 +41,15 @@
 </p>
 <p>
   
-    - Download and install the Rewrite Module file
+    - Download and install the Rewrite Module from the install files.
     - The rewrite_amd64-en-US.msi or the lastest version
 
 <p>
 <img src="https://i.imgur.com/V1D7lSk.png"
+</p>
 <p>
+  
+    - Create the directory C:\PHP then from install files, download PHP.7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
 
 <p>
 <img src="https://i.imgur.com/K5W0JGl.png"
