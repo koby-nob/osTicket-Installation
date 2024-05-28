@@ -1,7 +1,9 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
 - osTicket-Installation
 
-  <h1>osTicket - Prerequisites and Installation</h1>
+   <h1>osTicket - Prerequisites and Installation</h1>
+  
+  <h2>Description</h2
  - This projects outlines the requirement and process of installing the open-source help desk ticketing system osTicket.<br />
 
 
