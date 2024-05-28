@@ -3,7 +3,7 @@
 
    <h1>osTicket - Prerequisites and Installation</h1>
   
-  <h2>Description</h2
+<h2>Description</h2>
  - This projects outlines the requirement and process of installing the open-source help desk ticketing system osTicket.<br />
 
 
